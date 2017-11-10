@@ -1,0 +1,24 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/6.2.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/5.10.1/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/5.5.0/bin/node" />
+  </component>
+</application>
