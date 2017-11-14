@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="System Health" displayType="STICKY_BALLOON" />
     <notification groupId="Upgrade Subscription Renewal" displayType="NONE" shouldLog="false" />
   </component>
 </application>
