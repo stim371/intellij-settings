@@ -2,11 +2,15 @@
   <action id="Console.Execute" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="ctrl d" />
-    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorChooseLookupItem" />
   <action id="EditorEnter" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="Images.Thumbnails.EnterAction" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
@@ -15,6 +19,9 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="Vcs.UpdateProject" />
 </keymap>
