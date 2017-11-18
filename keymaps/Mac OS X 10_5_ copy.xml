@@ -21,10 +21,11 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="EditorChooseLookupItem" />
-  <action id="EditorEnter" />
-  <action id="EditorMoveDownAndScrollWithSelection">
+  <action id="EditorDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift down" />
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
+  <action id="EditorEnter" />
   <action id="EditorMoveToPageBottom">
     <keyboard-shortcut first-keystroke="meta page_down" />
     <keyboard-shortcut first-keystroke="meta down" />
@@ -41,7 +42,8 @@
     <keyboard-shortcut first-keystroke="shift meta page_up" />
     <keyboard-shortcut first-keystroke="shift ctrl meta up" />
   </action>
-  <action id="EditorMoveUpAndScrollWithSelection">
+  <action id="EditorUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift up" />
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="GotoDeclaration">
