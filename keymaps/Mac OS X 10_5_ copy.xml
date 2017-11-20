@@ -11,7 +11,6 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Debug">
-    <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="DecrementWindowHeight" />
@@ -93,7 +92,6 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="Run">
-    <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="ShowNavBar">
