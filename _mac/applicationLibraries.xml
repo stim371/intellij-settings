@@ -7596,6 +7596,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/jbuilder-2.6.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="jbuilder (v2.6.4, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/jbuilder-2.6.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/jbuilder-2.6.4/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/jbuilder-2.6.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/jbuilder-2.6.4/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="jekyll (v2.5.3, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/jekyll-2.5.3/bin" />
