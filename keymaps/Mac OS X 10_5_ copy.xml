@@ -1,4 +1,9 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Console.Execute" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -6,21 +11,43 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Debug">
-    <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="DecrementWindowHeight" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="EditorChooseLookupItem" />
+  <action id="EditorDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift down" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorEnter" />
   <action id="EditorMoveToPageBottom">
     <keyboard-shortcut first-keystroke="meta page_down" />
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
+  <action id="EditorMoveToPageBottomWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta page_down" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta down" />
+  </action>
   <action id="EditorMoveToPageTop">
     <keyboard-shortcut first-keystroke="meta page_up" />
     <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorMoveToPageTopWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta page_up" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta up" />
+  </action>
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="EditorUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift up" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
@@ -29,14 +56,34 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="GotoRelated" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="IncrementWindowHeight" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="ReplaceInPath" />
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="meta r" />
@@ -45,9 +92,10 @@
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="Run">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-    <keyboard-shortcut first-keystroke="shift meta t" />
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="ShowNavBar">
