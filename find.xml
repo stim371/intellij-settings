@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>cont*_spec.rb</mask>
-      <mask>contro*_spec.rb</mask>
-      <mask>control*_spec.rb</mask>
       <mask>controller*_spec.rb</mask>
       <mask>controller/*_spec.rb</mask>
       <mask>controllers/a*_spec.rb</mask>
@@ -21,7 +21,6 @@
       <mask>*_.rb</mask>
       <mask>*s.rb</mask>
       <mask>*spec.rb</mask>
-      <mask>*.j</mask>
       <mask>*.jb</mask>
       <mask>*.jbuil</mask>
       <mask>*.jbuild</mask>
@@ -30,10 +29,14 @@
       <mask>*.cql</mask>
       <mask>*.cq</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
       <mask>*.rd</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
+      <mask>*.JS</mask>
+      <mask>*.J</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
