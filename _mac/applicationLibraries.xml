@@ -2084,6 +2084,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/cassandra-driver-3.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="cassandra-driver (v3.2.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/cassandra-driver/3.2.2" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/cassandra-driver-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/cassandra-driver-3.2.2/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/cassandra-driver/3.2.2" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/cassandra-driver-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/cassandra-driver-3.2.2/ext" />
+      </SOURCES>
+    </library>
     <library name="celluloid (v0.15.2, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/celluloid-0.15.2/lib" />
@@ -7192,6 +7204,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/i18n-0.9.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="i18n (v0.9.5, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/i18n-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/i18n-0.9.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/i18n-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/i18n-0.9.5/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="iconv (v1.0.4, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/iconv-1.0.4/ext" />
@@ -10024,6 +10046,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid-history-0.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="mongoid-history (v0.8.0, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid-history-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid-history-0.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="mongoid-rspec (v1.13.0, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid-rspec-1.13.0/lib" />
@@ -10232,6 +10262,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/multi_json-1.12.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.13.1, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/multi_json-1.13.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/multi_json-1.13.1/lib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.8.1, rbenv: 2.1.9) [gem]">
@@ -12576,6 +12614,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1906000682/1322250864/bundler/gems/pry-rescue-bd12b6b18d54/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1906000682/1322250864/bundler/gems/pry-rescue-bd12b6b18d54/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry-rescue (v1.4.5@6c157b, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/pry-rescue-6c157b1ee4b0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/pry-rescue-6c157b1ee4b0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/pry-rescue-6c157b1ee4b0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/pry-rescue-6c157b1ee4b0/bin" />
       </SOURCES>
     </library>
     <library name="pry-rescue (v1.4.5@a4ea30, rbenv: 2.2.4) [gem]">
@@ -16540,6 +16588,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/sentry-raven-2.7.1/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/sentry-raven-2.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sentry-raven (v2.7.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/sentry-raven-2.7.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/sentry-raven-2.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/sentry-raven-2.7.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/sentry-raven-2.7.2/lib" />
       </SOURCES>
     </library>
     <library name="sequel (v4.32.0, rbenv: 2.2.4) [gem]">
