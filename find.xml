@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*_spec.rb" />
     <recentFileMasks>
       <mask>controller*_spec.rb</mask>
       <mask>controller/*_spec.rb</mask>
@@ -13,11 +14,7 @@
       <mask>controllers/api*_spec.rb</mask>
       <mask>controllers/*_spec.rb</mask>
       <mask>controllers*_spec.rb</mask>
-      <mask>*_spec.rb</mask>
-      <mask>*_spe.rb</mask>
-      <mask>*_sp.rb</mask>
       <mask>*_s.rb</mask>
-      <mask>*_.rb</mask>
       <mask>*s.rb</mask>
       <mask>*spec.rb</mask>
       <mask>*.jb</mask>
@@ -36,6 +33,10 @@
       <mask>*.</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
+      <mask>*_.rb</mask>
+      <mask>*_sp.rb</mask>
+      <mask>*_spe.rb</mask>
+      <mask>*_spec.rb</mask>
     </recentFileMasks>
   </component>
 </application>
