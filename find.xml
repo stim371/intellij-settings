@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*_spec.rb" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>controller*_spec.rb</mask>
       <mask>controller/*_spec.rb</mask>
@@ -36,11 +36,11 @@
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.r</mask>
-      <mask>*.rb</mask>
-      <mask>*_.rb</mask>
-      <mask>*_sp.rb</mask>
-      <mask>*_spe.rb</mask>
       <mask>*_spec.rb</mask>
+      <mask>*_spe.rb</mask>
+      <mask>*_sp.rb</mask>
+      <mask>*_.rb</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
