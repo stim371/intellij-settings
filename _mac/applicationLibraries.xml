@@ -48,6 +48,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionmailer-4.0.13/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v4.1.16, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/actionmailer-4.1.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/actionmailer-4.1.16/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v4.2.10, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/actionmailer-4.2.10/lib" />
@@ -104,6 +112,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-4.0.13/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v4.1.16, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/actionpack-4.1.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/actionpack-4.1.16/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v4.2.10, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/actionpack-4.2.10/lib" />
@@ -134,6 +150,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v4.1.16, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/actionview-4.1.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/actionview-4.1.16/lib" />
       </SOURCES>
     </library>
     <library name="actionview (v4.2.10, rbenv: 2.2.4) [gem]">
@@ -232,6 +256,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activemodel-4.0.13/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel (v4.1.16, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/activemodel-4.1.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/activemodel-4.1.16/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v4.2.10, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/activemodel-4.2.10/lib" />
@@ -286,6 +318,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activerecord-4.0.13/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v4.1.16, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/activerecord-4.1.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/activerecord-4.1.16/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v4.2.10, rbenv: 2.2.4) [gem]">
@@ -410,6 +450,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-4.0.13/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v4.1.16, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/activesupport-4.1.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/activesupport-4.1.16/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v4.2.10, rbenv: 2.2.4) [gem]">
@@ -716,6 +764,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/arel-4.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v5.0.1.20140414130214, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/arel-5.0.1.20140414130214/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/arel-5.0.1.20140414130214/lib" />
       </SOURCES>
     </library>
     <library name="arel (v6.0.4, rbenv: 2.2.4) [gem]">
@@ -12788,6 +12844,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rails-4.0.13/guides" />
       </SOURCES>
     </library>
+    <library name="rails (v4.1.16, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rails-4.1.16/guides" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rails-4.1.16/guides" />
+      </SOURCES>
+    </library>
     <library name="rails (v4.2.10, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/rails-4.2.10/guides" />
@@ -12996,6 +13060,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-4.0.13/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/railties-4.0.13/bin" />
+      </SOURCES>
+    </library>
+    <library name="railties (v4.1.16, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/railties-4.1.16/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/railties-4.1.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/railties-4.1.16/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/railties-4.1.16/lib" />
       </SOURCES>
     </library>
     <library name="railties (v4.2.10, rbenv: 2.2.4) [gem]">
