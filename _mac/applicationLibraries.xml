@@ -2510,6 +2510,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/connection_pool-2.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="connection_pool (v2.2.2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/connection_pool-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/connection_pool-2.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="cookiejar (v0.3.3, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/cookiejar-0.3.3/lib" />
@@ -9858,6 +9866,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid-rspec-f4d1179add54/lib" />
+      </SOURCES>
+    </library>
+    <library name="mongoid-rspec (v4.0.2@f5d2a2, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid-rspec-f5d2a2f44047/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid-rspec-f5d2a2f44047/lib" />
       </SOURCES>
     </library>
     <library name="mongoid_userstamp (v0.3.2, rbenv: 2.2.4) [gem]">
