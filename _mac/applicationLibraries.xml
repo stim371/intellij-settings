@@ -9884,6 +9884,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mongoid_userstamp-0.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="mongoid_userstamp (v0.3.2@fd6d5d, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid_userstamp-fd6d5dc61386/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid_userstamp-fd6d5dc61386/lib" />
+      </SOURCES>
+    </library>
     <library name="moped (v1.1.6, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/moped-1.1.6/lib" />
