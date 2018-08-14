@@ -9896,6 +9896,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/mongoid-rspec-4.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="mongoid-rspec (v4.0.2@a9c6ac, rbenv: 2.2.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid-rspec-a9c6ac73b9e4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid-rspec-a9c6ac73b9e4/lib" />
+      </SOURCES>
+    </library>
     <library name="mongoid-rspec (v4.0.2@f4d117, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/bundler/gems/mongoid-rspec-f4d1179add54/lib" />
