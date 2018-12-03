@@ -17656,6 +17656,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/simplecov-0.15.1/lib" />
       </SOURCES>
     </library>
+    <library name="simplecov (v0.16.1, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/simplecov-0.16.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/simplecov-0.16.1/lib" />
+      </SOURCES>
+    </library>
     <library name="simplecov-html (v0.10.0, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.0/lib" />
@@ -17738,6 +17746,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.2/views" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.2/assets" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.7/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="simplecov-html (v0.10.2, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/simplecov-html-0.10.2/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/simplecov-html-0.10.2/public" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/simplecov-html-0.10.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/simplecov-html-0.10.2/views" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/simplecov-html-0.10.2/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/simplecov-html-0.10.2/public" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/simplecov-html-0.10.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/simplecov-html-0.10.2/views" />
       </SOURCES>
     </library>
     <library name="simplecov-rcov (v0.2.3, rbenv: 2.2.4) [gem]">
