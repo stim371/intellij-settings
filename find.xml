@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="*.sh" />
     <recentFileMasks>
-      <mask>controllers/api/*_spec.rb</mask>
-      <mask>controllers/api*_spec.rb</mask>
       <mask>controllers/*_spec.rb</mask>
       <mask>controllers*_spec.rb</mask>
       <mask>*.jb</mask>
@@ -22,7 +20,6 @@
       <mask>*.J</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*_sp.rb</mask>
       <mask>*s.rb</mask>
       <mask>*spe.rb</mask>
@@ -33,8 +30,11 @@
       <mask>*_spec.rb</mask>
       <mask>*.rk</mask>
       <mask>*.rake</mask>
-      <mask>*.r</mask>
       <mask>*.rb</mask>
+      <mask>*.r</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sh</mask>
     </recentFileMasks>
   </component>
 </application>
