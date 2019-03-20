@@ -440,6 +440,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/activerecord-deprecated_finders-1.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord-import (v1.0.1, rbenv: 2.5.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/activerecord-import-1.0.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/activerecord-import-1.0.1/benchmarks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/activerecord-import-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/activerecord-import-1.0.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/activerecord-import-1.0.1/benchmarks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/activerecord-import-1.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activeresource (v3.2.22.5, rbenv: 2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/activeresource-3.2.22.5/lib" />
