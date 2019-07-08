@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile_firefox" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="dbf" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
