@@ -30,10 +30,10 @@
       <mask>*.rk</mask>
       <mask>*.rake</mask>
       <mask>*.s</mask>
+      <mask>*.rb</mask>
+      <mask>*.r</mask>
       <mask>*.</mask>
       <mask>*.sh</mask>
-      <mask>*.r</mask>
-      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
