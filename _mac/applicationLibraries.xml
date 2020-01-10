@@ -20462,6 +20462,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/watir-6.16.5/lib" />
       </SOURCES>
     </library>
+    <library name="watir (v6.16.5@04c6cf, rbenv: 2.6.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/watir-04c6cfe0dc6d/support" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/watir-04c6cfe0dc6d/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/watir-04c6cfe0dc6d/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/watir-04c6cfe0dc6d/support" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/watir-04c6cfe0dc6d/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/watir-04c6cfe0dc6d/.github" />
+      </SOURCES>
+    </library>
     <library name="watir-webdriver (v0.9.9, rbenv: 2.6.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/watir-webdriver-0.9.9/support" />
