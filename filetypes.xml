@@ -3,6 +3,13 @@
     <extensionMap>
       <mapping pattern="Dockerfile_firefox" type="Dockerfile" />
       <mapping pattern="Dockerfile-test" type="Dockerfile" />
+      <mapping pattern="lint" type="Makefile" />
+      <mapping pattern="jenkins" type="Makefile" />
+      <mapping pattern="seed" type="Makefile" />
+      <mapping pattern="travis" type="Makefile" />
+      <mapping pattern="GNU Makefile" type="Makefile" />
+      <mapping pattern="image" type="Makefile" />
+      <mapping pattern="stack" type="Makefile" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Make" type="PLAIN_TEXT" />
       <mapping ext="dbf" type="PLAIN_TEXT" />
