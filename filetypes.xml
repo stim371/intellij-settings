@@ -4,6 +4,7 @@
       <mapping pattern="Dockerfile_firefox" type="Dockerfile" />
       <mapping pattern="Dockerfile-test" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="Make" type="PLAIN_TEXT" />
       <mapping ext="dbf" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
