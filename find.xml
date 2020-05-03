@@ -13,7 +13,7 @@
     <mask>*.gemspec</mask>
     <mask>*.rbw</mask>
     <mask>*.jbuilder</mask>
-    <mask>*.sh</mask>
     <mask>*.rb</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
