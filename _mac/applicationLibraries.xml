@@ -14264,6 +14264,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/rspec-core-3.9.1/exe" />
       </excluded>
     </library>
+    <library name="rspec-core (v3.9.2, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rspec-core-3.9.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rspec-core-3.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rspec-core-3.9.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rspec-core-3.9.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rspec-core-3.9.2/exe" />
+      </excluded>
+    </library>
     <library name="rspec-expectations (v3.7.0, rbenv: 2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -14482,6 +14498,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/rspec-support-3.9.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.9.3, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rspec-support-3.9.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rspec-support-3.9.3/lib" />
       </SOURCES>
     </library>
     <library name="rspec_junit_formatter (v0.3.0, rbenv: 2.2.4) [gem]" type="rubylib">
