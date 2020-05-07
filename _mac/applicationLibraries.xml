@@ -1582,13 +1582,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/spec" />
@@ -1974,13 +1972,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/bson/3.2.7" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-3.2.7/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-3.2.7/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-3.2.7/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/bson/3.2.7" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-3.2.7/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-3.2.7/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/bson-3.2.7/spec" />
@@ -2216,13 +2212,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/byebug/11.0.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/byebug-11.0.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/byebug/11.0.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/byebug-11.0.1/lib" />
@@ -2363,12 +2357,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/cassandra-driver/3.2.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/cassandra-driver-3.2.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/cassandra-driver-3.2.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/cassandra-driver/3.2.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/cassandra-driver-3.2.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/cassandra-driver-3.2.0/lib" />
       </SOURCES>
@@ -4726,13 +4718,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/ffi/1.12.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/ffi-1.12.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/ffi-1.12.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/ffi-1.12.2/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/ffi/1.12.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/ffi-1.12.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/ffi-1.12.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/ffi-1.12.2/samples" />
@@ -6197,6 +6187,40 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/fog-xml-0.1.3/gemfiles" />
       </excluded>
     </library>
+    <library name="foreman (v0.62.0@afb1f4, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/dist" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/dist" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/dist" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/foreman-afb1f4656cf3/tasks" />
+      </excluded>
+    </library>
     <library name="formatador (v0.2.5, rbenv: 2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6990,13 +7014,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/hiredis/0.6.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/hiredis-0.6.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/hiredis-0.6.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/hiredis-0.6.1/vendor" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/hiredis/0.6.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/hiredis-0.6.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/hiredis-0.6.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/hiredis-0.6.1/vendor" />
@@ -7175,7 +7197,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/spec" />
@@ -7183,7 +7204,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/spec" />
@@ -7740,12 +7760,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/jaro_winkler-1.5.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/jaro_winkler-1.5.4/lib" />
       </SOURCES>
@@ -7958,7 +7976,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/json-1.8.6/data" />
@@ -7968,7 +7985,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/json-1.8.6/data" />
@@ -8243,14 +8259,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/kgio/2.10.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/kgio-2.10.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/kgio-2.10.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/kgio-2.10.0/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/kgio-2.10.0/archive" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/kgio/2.10.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/kgio-2.10.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/kgio-2.10.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/kgio-2.10.0/test" />
@@ -8706,6 +8720,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/logstash-event-1.2.02/spec" />
+      </excluded>
+    </library>
+    <library name="logstash-event (v1.3@3c2214, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/logstash-event-3c2214628a27/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/logstash-event-3c2214628a27/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/logstash-event-3c2214628a27/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/logstash-event-3c2214628a27/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/logstash-event-3c2214628a27/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/logstash-event-3c2214628a27/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/logstash-event-3c2214628a27/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/logstash-event-3c2214628a27/spec" />
       </excluded>
     </library>
     <library name="logstash-logger (v0.15.2, rbenv: 2.2.4) [gem]" type="rubylib">
@@ -9737,6 +9770,34 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid-4.0.2/spec" />
       </excluded>
     </library>
+    <library name="mongoid (v4.0.2@e39be6, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/perf" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/perf" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/perf" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-e39be6063f7a/gemfiles" />
+      </excluded>
+    </library>
     <library name="mongoid-compatibility (v0.5.0, rbenv: 2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9925,6 +9986,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid-rspec-4.0.1/spec" />
       </excluded>
     </library>
+    <library name="mongoid-rspec (v4.0.2@a9c6ac, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-rspec-a9c6ac73b9e4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-rspec-a9c6ac73b9e4/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-rspec-a9c6ac73b9e4/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-rspec-a9c6ac73b9e4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-rspec-a9c6ac73b9e4/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-rspec-a9c6ac73b9e4/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-rspec-a9c6ac73b9e4/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid-rspec-a9c6ac73b9e4/spec" />
+      </excluded>
+    </library>
     <library name="mongoid_userstamp (v0.3.2, rbenv: 2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9939,6 +10019,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/mongoid_userstamp-0.3.2/spec" />
+      </excluded>
+    </library>
+    <library name="mongoid_userstamp (v0.3.2@fd6d5d, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid_userstamp-fd6d5dc61386/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid_userstamp-fd6d5dc61386/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid_userstamp-fd6d5dc61386/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid_userstamp-fd6d5dc61386/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid_userstamp-fd6d5dc61386/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid_userstamp-fd6d5dc61386/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid_userstamp-fd6d5dc61386/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/mongoid_userstamp-fd6d5dc61386/spec" />
       </excluded>
     </library>
     <library name="moped (v1.5.3, rbenv: 2.2.4) [gem]" type="rubylib">
@@ -10576,7 +10675,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/nokogiri/1.6.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.7.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.7.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.7.2/lib" />
@@ -10586,7 +10684,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.7.2/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/nokogiri/1.6.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.7.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.7.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.7.2/lib" />
@@ -10789,14 +10886,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/oily_png/1.2.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/oily_png-1.2.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/oily_png-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/oily_png-1.2.1/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/oily_png-1.2.1/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/oily_png/1.2.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/oily_png-1.2.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/oily_png-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/oily_png-1.2.1/spec" />
@@ -10866,13 +10961,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/oj/2.18.5" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/oj-2.18.5/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/oj-2.18.5/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/oj-2.18.5/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/oj/2.18.5" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/oj-2.18.5/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/oj-2.18.5/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/oj-2.18.5/test" />
@@ -11777,6 +11870,56 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.4/lib/ruby/gems/2.2.0/gems/pry-remote-0.1.8/bin" />
+      </excluded>
+    </library>
+    <library name="pry-rescue (v1.4.5@1e77c7, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-1e77c7c71076/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-1e77c7c71076/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-1e77c7c71076/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-1e77c7c71076/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-1e77c7c71076/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-1e77c7c71076/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-1e77c7c71076/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-1e77c7c71076/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-1e77c7c71076/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-1e77c7c71076/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-1e77c7c71076/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-1e77c7c71076/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-1e77c7c71076/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-1e77c7c71076/examples" />
+      </excluded>
+    </library>
+    <library name="pry-rescue (v1.5.0@3b21cf, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-3b21cf6176ac/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-3b21cf6176ac/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-3b21cf6176ac/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-3b21cf6176ac/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-3b21cf6176ac/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-3b21cf6176ac/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-3b21cf6176ac/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-3b21cf6176ac/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-3b21cf6176ac/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-3b21cf6176ac/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-3b21cf6176ac/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-3b21cf6176ac/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-3b21cf6176ac/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/pry-rescue-3b21cf6176ac/examples" />
       </excluded>
     </library>
     <library name="pry-stack_explorer (v0.4.9.2, rbenv: 2.2.4) [gem]" type="rubylib">
@@ -12900,6 +13043,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rails3-generators-1.0.0/test" />
       </excluded>
     </library>
+    <library name="rails4_upgrade (v0.5.0@2e39e8, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rails4_upgrade-2e39e8e55507/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rails4_upgrade-2e39e8e55507/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rails4_upgrade-2e39e8e55507/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rails4_upgrade-2e39e8e55507/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rails4_upgrade-2e39e8e55507/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rails4_upgrade-2e39e8e55507/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rails4_upgrade-2e39e8e55507/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rails4_upgrade-2e39e8e55507/spec" />
+      </excluded>
+    </library>
     <library name="railties (v3.2.22.5, rbenv: 2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13174,7 +13336,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/raindrops/0.16.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/raindrops-0.16.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/raindrops-0.16.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/raindrops-0.16.0/test" />
@@ -13182,7 +13343,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/raindrops-0.16.0/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/raindrops/0.16.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/raindrops-0.16.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/raindrops-0.16.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/raindrops-0.16.0/test" />
@@ -13445,13 +13605,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/rb-fsevent/0.10.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/rb-fsevent/0.10.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.4/lib" />
@@ -14065,6 +14223,66 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/rexml-3.2.4/lib" />
       </SOURCES>
+    </library>
+    <library name="rightnow-soap (v0.0.3@8a5449, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rightnow-soap-8a54490ed10f/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rightnow-soap-8a54490ed10f/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rightnow-soap-8a54490ed10f/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rightnow-soap-8a54490ed10f/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rightnow-soap-8a54490ed10f/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rightnow-soap-8a54490ed10f/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rightnow-soap-8a54490ed10f/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rightnow-soap-8a54490ed10f/spec" />
+      </excluded>
+    </library>
+    <library name="rollout (v2.0.0c@27cdfa, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout-27cdfad5e9d2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout-27cdfad5e9d2/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout-27cdfad5e9d2/misc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout-27cdfad5e9d2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout-27cdfad5e9d2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout-27cdfad5e9d2/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout-27cdfad5e9d2/misc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout-27cdfad5e9d2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout-27cdfad5e9d2/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout-27cdfad5e9d2/misc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout-27cdfad5e9d2/spec" />
+      </excluded>
+    </library>
+    <library name="rollout_ui (v0.3.0@fc7cba, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout_ui-fc7cba8f77ce/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout_ui-fc7cba8f77ce/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout_ui-fc7cba8f77ce/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout_ui-fc7cba8f77ce/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout_ui-fc7cba8f77ce/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout_ui-fc7cba8f77ce/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout_ui-fc7cba8f77ce/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/rollout_ui-fc7cba8f77ce/spec" />
+      </excluded>
     </library>
     <library name="roo (v2.8.3, rbenv: 2.5.7) [gem]" type="rubylib">
       <properties>
@@ -15629,6 +15847,50 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sawyer-0.8.1/script" />
       </excluded>
     </library>
+    <library name="scold (v0.6.2@484636, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-484636beccbc/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-484636beccbc/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-484636beccbc/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-484636beccbc/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-484636beccbc/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-484636beccbc/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-484636beccbc/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-484636beccbc/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-484636beccbc/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-484636beccbc/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-484636beccbc/spec" />
+      </excluded>
+    </library>
+    <library name="scold (v0.6.2@c15a52, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-c15a52d12e0e/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-c15a52d12e0e/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-c15a52d12e0e/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-c15a52d12e0e/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-c15a52d12e0e/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-c15a52d12e0e/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-c15a52d12e0e/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-c15a52d12e0e/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-c15a52d12e0e/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-c15a52d12e0e/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/scold-c15a52d12e0e/spec" />
+      </excluded>
+    </library>
     <library name="scrub_rb (v1.0.1, rbenv: 2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -16819,14 +17081,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/thin/1.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thin-1.7.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thin-1.7.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thin-1.7.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thin-1.7.2/example" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/thin/1.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thin-1.7.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thin-1.7.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/thin-1.7.2/lib" />
@@ -16916,6 +17176,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/thor-1.0.1/bin" />
+      </excluded>
+    </library>
+    <library name="thread (v0.1.7@6b3d15, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/ruby-thread-6b3d159198de/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/ruby-thread-6b3d159198de/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/ruby-thread-6b3d159198de/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/ruby-thread-6b3d159198de/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/ruby-thread-6b3d159198de/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/ruby-thread-6b3d159198de/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/ruby-thread-6b3d159198de/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/ruby-thread-6b3d159198de/spec" />
       </excluded>
     </library>
     <library name="thread_safe (v0.3.6, rbenv: 2.2.4) [gem]" type="rubylib">
@@ -17302,6 +17581,25 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/turbolinks-source-5.2.0/lib" />
       </SOURCES>
+    </library>
+    <library name="types (v1.0.0@f8c9ce, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/types-f8c9ce190919/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/types-f8c9ce190919/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/types-f8c9ce190919/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/types-f8c9ce190919/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/types-f8c9ce190919/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/types-f8c9ce190919/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/types-f8c9ce190919/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/types-f8c9ce190919/spec" />
+      </excluded>
     </library>
     <library name="typhoeus (v0.8.0, rbenv: 2.3.8) [gem]" type="rubylib">
       <properties>
@@ -17751,7 +18049,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/unicorn/5.1.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/unicorn-5.1.0/t" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/unicorn-5.1.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/unicorn-5.1.0/ext" />
@@ -17763,7 +18060,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/unicorn-5.1.0/Documentation" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/unicorn/5.1.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/unicorn-5.1.0/t" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/unicorn-5.1.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/unicorn-5.1.0/ext" />
@@ -17783,6 +18079,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/unicorn-5.1.0/archive" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/unicorn-5.1.0/examples" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/unicorn-5.1.0/Documentation" />
+      </excluded>
+    </library>
+    <library name="urbanairship (v2.3.3@bda268, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/urbanairship-bda268bff6ee/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/urbanairship-bda268bff6ee/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/urbanairship-bda268bff6ee/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/urbanairship-bda268bff6ee/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/urbanairship-bda268bff6ee/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/urbanairship-bda268bff6ee/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/urbanairship-bda268bff6ee/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/urbanairship-bda268bff6ee/spec" />
       </excluded>
     </library>
     <library name="url_safe_base64 (v0.2.2, rbenv: 2.2.4) [gem]" type="rubylib">
@@ -18356,7 +18671,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/yajl-ruby/1.3.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.1/spec" />
@@ -18366,7 +18680,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.1/benchmark" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/yajl-ruby/1.3.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/yajl-ruby-1.3.1/spec" />
@@ -18538,6 +18851,31 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/zendesk_api-1.16.0/util" />
+      </excluded>
+    </library>
+    <library name="zuora (v1.0.0@d6f6ed, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/zuora-d6f6ed3a3c07/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/zuora-d6f6ed3a3c07/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/zuora-d6f6ed3a3c07/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/zuora-d6f6ed3a3c07/wsdl" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/zuora-d6f6ed3a3c07/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/zuora-d6f6ed3a3c07/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/zuora-d6f6ed3a3c07/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/zuora-d6f6ed3a3c07/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/zuora-d6f6ed3a3c07/wsdl" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/zuora-d6f6ed3a3c07/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/zuora-d6f6ed3a3c07/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/zuora-d6f6ed3a3c07/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/zuora-d6f6ed3a3c07/wsdl" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/zuora-d6f6ed3a3c07/gemfiles" />
       </excluded>
     </library>
   </component>
