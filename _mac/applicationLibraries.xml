@@ -4010,6 +4010,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/dogstatsd-ruby-1.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="dogstatsd-ruby (v2.2.0, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/dogstatsd-ruby-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/dogstatsd-ruby-2.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.20170404, rbenv: 2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
