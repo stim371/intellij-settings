@@ -4897,6 +4897,26 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/ezcrypto-0.7.2/test" />
       </excluded>
     </library>
+    <library name="facets (v3.1.0, rbenv: 2.5.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/facets-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/facets-3.1.0/demo" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/facets-3.1.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/facets-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/facets-3.1.0/demo" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/facets-3.1.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/facets-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/facets-3.1.0/demo" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/facets-3.1.0/test" />
+      </excluded>
+    </library>
     <library name="facter (v2.5.1, rbenv: 2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8597,6 +8617,39 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/2.5.0/json/add" />
       </excluded>
     </library>
+    <library name="json (v2.3.0, rbenv: 2.5.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/json/2.3.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/java" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/tools" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/diagrams" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/references" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/json/2.3.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/java" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/tools" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/diagrams" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/references" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/java" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/tools" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/diagrams" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/json-2.3.0/references" />
+      </excluded>
+    </library>
     <library name="json-jwt (v1.12.0, rbenv: 2.3.8) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12113,6 +12166,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/orm_adapter-0.5.0/gemfiles" />
       </excluded>
     </library>
+    <library name="os (v1.1.0, rbenv: 2.5.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/os-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/os-1.1.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/os-1.1.0/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/os-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/os-1.1.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/os-1.1.0/autotest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/os-1.1.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/os-1.1.0/autotest" />
+      </excluded>
+    </library>
     <library name="parallel (v1.12.0, rbenv: 2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13093,11 +13165,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/psych/3.1.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/psych-3.1.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/psych-3.1.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/psych-3.1.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/psych/3.1.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/psych-3.1.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/psych-3.1.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/psych-3.1.0/lib" />
@@ -19915,6 +19989,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/web-console-3.7.0/lib" />
       </SOURCES>
+    </library>
+    <library name="webdriver-user-agent (v7.6, rbenv: 2.5.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/webdriver-user-agent-7.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/webdriver-user-agent-7.6/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/webdriver-user-agent-7.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/webdriver-user-agent-7.6/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/webdriver-user-agent-7.6/spec" />
+      </excluded>
     </library>
     <library name="webmock (v2.3.2, rbenv: 2.2.4) [gem]" type="rubylib">
       <properties>
