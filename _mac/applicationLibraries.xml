@@ -9862,6 +9862,59 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/license_finder-6.8.1/release" />
       </excluded>
     </library>
+    <library name="license_finder_upgrade (v0.0.1, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/license_finder_upgrade-0.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/license_finder_upgrade-0.0.1/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/license_finder_upgrade-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/license_finder_upgrade-0.0.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/license_finder_upgrade-0.0.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/license_finder_upgrade-0.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/license_finder_upgrade-0.0.1/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/license_finder_upgrade-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/license_finder_upgrade-0.0.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/license_finder_upgrade-0.0.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/license_finder_upgrade-0.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/license_finder_upgrade-0.0.1/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/license_finder_upgrade-0.0.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/license_finder_upgrade-0.0.1/config" />
+      </excluded>
+    </library>
+    <library name="license_finder_upgrade (v0.0.1@8e70e0, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/bundler/gems/license_finder_upgrade-8e70e065396b/config" />
+      </excluded>
+    </library>
     <library name="listen (v3.1.5, rbenv: 2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -18748,6 +18801,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sentry-raven-2.7.4/docs" />
       </excluded>
     </library>
+    <library name="sequel (v5.35.0, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sequel-5.35.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sequel-5.35.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sequel-5.35.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sequel-5.35.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sequel-5.35.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sequel-5.35.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sequel-5.35.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sequel-5.35.0/doc" />
+      </excluded>
+    </library>
     <library name="sexp_processor (v4.10.0, rbenv: 2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -19632,6 +19704,33 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/sprockets-rails-3.2.1/lib" />
       </SOURCES>
+    </library>
+    <library name="sqlite3 (v1.4.2, rbenv: 2.3.8) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/sqlite3/1.4.2" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sqlite3-1.4.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sqlite3-1.4.2/faq" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sqlite3-1.4.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sqlite3-1.4.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sqlite3-1.4.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/sqlite3/1.4.2" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sqlite3-1.4.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sqlite3-1.4.2/faq" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sqlite3-1.4.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sqlite3-1.4.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sqlite3-1.4.2/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sqlite3-1.4.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sqlite3-1.4.2/faq" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sqlite3-1.4.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/sqlite3-1.4.2/rakelib" />
+      </excluded>
     </library>
     <library name="state_machine (v1.2.0, rbenv: 2.2.4) [gem]" type="rubylib">
       <properties>
