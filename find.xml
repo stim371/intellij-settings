@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rake" />
+    <option name="FILE_MASK" value="*.rb" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -16,7 +16,7 @@
     <mask>*.rbw</mask>
     <mask>*.jbuilder</mask>
     <mask>*.sh</mask>
-    <mask>*.rb</mask>
     <mask>*.rake</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
