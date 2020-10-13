@@ -8101,6 +8101,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.8/lib/ruby/gems/2.3.0/gems/html2haml-2.2.0/test" />
       </excluded>
     </library>
+    <library name="html_to_plain_text (v1.0.5, rbenv: 2.5.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/html_to_plain_text-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/html_to_plain_text-1.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="htmlentities (v4.3.4, rbenv: 2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
