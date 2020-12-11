@@ -15,6 +15,7 @@
       <mapping ext="dbf" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="production" type="PLAIN_TEXT" />
       <mapping pattern="test" type="Ruby" />
       <mapping pattern=".env" type="Ruby" />
       <mapping ext="rabl" type="Ruby" />
