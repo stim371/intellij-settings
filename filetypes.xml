@@ -14,6 +14,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="dbf" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="Ruby" />
       <mapping pattern="test" type="Ruby" />
