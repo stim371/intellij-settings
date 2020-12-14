@@ -4,20 +4,19 @@
       <mapping pattern="Dockerfile_firefox" type="Dockerfile" />
       <mapping pattern="Dockerfile-test" type="Dockerfile" />
       <mapping pattern="jenkins" type="Makefile" />
+      <mapping pattern="lint" type="Makefile" />
+      <mapping pattern="travis" type="Makefile" />
+      <mapping pattern="GNU Makefile" type="Makefile" />
+      <mapping pattern="image" type="Makefile" />
       <mapping pattern="seed" type="Makefile" />
       <mapping pattern="stack" type="Makefile" />
-      <mapping pattern="lint" type="Makefile" />
-      <mapping pattern="image" type="Makefile" />
-      <mapping pattern="GNU Makefile" type="Makefile" />
-      <mapping pattern="travis" type="Makefile" />
       <mapping pattern="Make" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="dbf" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="Ruby" />
       <mapping pattern="test" type="Ruby" />
+      <mapping pattern=".env" type="Ruby" />
       <mapping ext="rabl" type="Ruby" />
       <removed_mapping ext="production" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
